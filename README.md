@@ -23,7 +23,7 @@ Used to store the studio learning report files
 ### 插入    
 链接：[显示文本]（链接地址）    
 图片：！[]（图片链接地址）
-例：！[https://wkretype.bdimg.com/retype/zoom/c41a0e15227916888486d7d5?pn=9&o=jpg_6&md5sum=ac783e70d3f6f589b6191a1aabeeb670&sign=6154bce6a3&png=1033402-1230068&jpg=1819466-2073515]
+例：！[http://b304.photo.store.qq.com/psb?/V14dCAWw3nn2UD/dMZmqNbeTX54kX74LTTyaFRILvvbsf11PnIL82EmdU8!/b/dDABAAAAAAAA&amp;bo=zQNOA80DTgMBACc!&rf=viewer_311]
 
 # 第二个任务:   
 学习套接字。掌握tcp、udp、icmp协议，掌握其报文的格式。    
