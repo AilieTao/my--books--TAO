@@ -23,7 +23,7 @@ Used to store the studio learning report files
 ### 插入      
 链接：[显示文本]（链接地址）      
 图片：！[]（图片链接地址）      
-例：！[http://b304.photo.store.qq.com/psb?/V14dCAWw3nn2UD/dMZmqNbeTX54kX74LTTyaFRILvvbsf11PnIL82EmdU8!/b/dDABAAAAAAAA&amp;bo=zQNOA80DTgMBACc!&rf=viewer_311]     
+例：！[http://b304.photo.store.qq.com/psb?/V14dCAWw3nn2UD/dMZmqNbeTX54kX74LTTyaFRILvvbsf11PnIL82EmdU8!/b/dDABAAAAAAAA&amp;bo=zQNOA80DTgMBACc!&rf=viewer_311]       
 
 # 第二个任务:     
 学习套接字。掌握tcp、udp、icmp协议，掌握其报文的格式。     
@@ -36,12 +36,12 @@ Used to store the studio learning report files
 ### 网络通信协议为连接不同操作系统和不同硬件体系结构的互联网络引提供通信支持，是一种网络通用语言。        
 像我们浏览的很多网址前的HTTP就是一种超文本传输协议。     
 ### 报文格式       
-组成：  ！[https://wkretype.bdimg.com/retype/zoom/c41a0e15227916888486d7d5?pn=9&o=jpg_6&md5sum=ac783e70d3f6f589b6191a1aabeeb670&sign=6154bce6a3&png=1033402-1230068&jpg=1819466-2073515]   
-然后这里每一个层面都有区别，    
-我比较能接受图片形式的：TCP、UPD:[https://blog.csdn.net/henni_719/article/details/42487265]         
-icmp:不知道是不是错觉，感觉比上面两个要常见。就看了一下时间戳。          
-# 第三个任务：     
-在linux下用c语言编写小程序 ：    
+组成：  ！[https://wkretype.bdimg.com/retype/zoom/c41a0e15227916888486d7d5?pn=9&o=jpg_6&md5sum=ac783e70d3f6f589b6191a1aabeeb670&sign=6154bce6a3&png=1033402-1230068&jpg=1819466-2073515]       
+然后这里每一个层面都有区别，          
+我比较能接受图片形式的：TCP、UPD:[https://blog.csdn.net/henni_719/article/details/42487265]                  
+icmp:不知道是不是错觉，感觉比上面两个要常见。就看了一下时间戳。              
+# 第三个任务：        
+在linux下用c语言编写小程序 ：       
 ## 要求：      
 能够发送icmp报文    
 实现在命令行下写入网址参数能够输出发送到接受所需要的时间和ttl     
@@ -56,10 +56,10 @@ IP头里面有TTL。
 2. Linux与windows文件的共享         
 3. 在GitHub编辑这个文档的时候，比起word，有个优点，可以查看你上一次保存的文档；有一个缺点，不小心删了一点文字，不能像word那样点一下箭头就恢复上一个操作前的样子。有恢复的办法吗？
 # 感受      
-1。 书400多页，我还没看完；                  
-2。 面对全英文的网页，我有点不适应，有点茫然；
+1. 书400多页，我还没看完；                  
+2. 面对全英文的网页，我有点不适应，有点茫然；
 3. 查百度获取一些教程的时候，教程中图片与自己打开的页面对不上时，说实话有点急躁、绝望；    
-4。我们下两周还有学习任务吗？要期中考试了，我可能要把大多数时间用在备战考试上（毕竟有点课程知识还是得好好学一下的。）    
+4. 我们下两周还有学习任务吗？要期中考试了，我可能要把大多数时间用在备战考试上（毕竟有点课程知识还是得好好学一下的。）    
 
 
 
