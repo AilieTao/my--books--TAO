@@ -1,5 +1,5 @@
 # my--books--TAO
-Used to store the studio learning report files
+Used to store the studio learning report files      
 **Maker工作室第二次学习任务报告书**
 # 第一个任务：
 学会使用github；学会使用markdown来编写今后的实验报告        
@@ -22,10 +22,21 @@ Used to store the studio learning report files
 第二种：大片文字需要实现代码框。使用Tab和四个空格。    
 ### 插入    
 链接：[显示文本]（链接地址）    
-图片：！[]（图片链接地址）    
-# 第二个任务:     
+图片：！[]（图片链接地址）
+例：！[C:\Users\DELLHL\Pictures\工作]
+
+# 第二个任务:   
 学习套接字。掌握tcp、udp、icmp协议，掌握其报文的格式。    
-# 第三个任务：     
+## 套接字   
+套接字是支持TCP/IP的网络通信的基本操作单元。
+是源IP地址和目的IP地址以及源端口号和目的端口号的组合，用于标识客户端请求的服务器和服务。
+可以看做是不同主机之间的进程进行双向通信的端点，简单的说就是通信的两方的一种约定，用套接字中的相关函数来完成通信过程。
+例:Socket=Ip address+ TCP/UDP + port。
+## 各协议及报文格式
+### 网络通信协议为连接不同操作系统和不同硬件体系结构的互联网络引提供通信支持，是一种网络通用语言。   
+像我们浏览的很多网址前的HTTP就是一种超文本传输协议。
+
+# 第三个任务：     
 在linux下用c语言编写小程序    
 ## 要求：    
 能够发送icmp报文    
